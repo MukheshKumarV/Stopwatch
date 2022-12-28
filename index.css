@@ -1,0 +1,28 @@
+/* This is the CSS File to the StopWatch Website */
+
+/* Container is the combination of buttons and timer */
+.container {
+    background-color: #1C315E;
+}
+
+
+/* Time component consists of the hours mins sec*/
+.time-component {
+    font-size: 150px;
+    color: rgb(177, 17, 17);
+}
+
+/* Text Disply */
+.text-component {
+    font-size: 60px;
+    color: #b42917;
+}
+
+/* Start stop reset buttons */
+#buttons {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+
+
